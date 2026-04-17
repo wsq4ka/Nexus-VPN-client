@@ -2,6 +2,7 @@
 
 ![NEXUS X Status](https://img.shields.io/badge/Status-Active-50FA7B?style=for-the-badge)
 ![Python Version](https://img.shields.io/badge/Python-3.10%2B-00F0FF?style=for-the-badge)
+[![Download Release](https://img.shields.io/badge/Download-Latest_Release-00F0FF?style=for-the-badge&logo=github)](https://github.com/wsq4ka/Nexus-VPN-client/releases/tag/releases)
 ![Platform](https://img.shields.io/badge/Platform-Windows_10%20%7C%2011-8BE9FD?style=for-the-badge)
 
 **NEXUS X** is an ultra-modern, high-performance desktop VPN client built with Python and PyQt6. Powered by the robust **Xray-core**, it features a cyberpunk-inspired terminal UI, fluid 60 FPS animations, and a zero-configuration system proxy engine designed to bypass aggressive OS routing bugs (including Windows 11 24H2).
