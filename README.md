@@ -8,7 +8,8 @@
 **NEXUS X VPN CLIENT** is an ultra-modern, high-performance desktop VPN client built with Python and PyQt6. Powered by the robust **Xray-core**, it features a cyberpunk-inspired terminal UI, fluid 60 FPS animations, and a zero-configuration system proxy engine designed to bypass aggressive OS routing bugs (including Windows 11 24H2).
 
 ---
-<img width="545" height="296" alt="Снимок экрана 2026-04-17 214733" src="https://github.com/user-attachments/assets/0016d2d8-5f75-402d-bb4b-2461a4a428e1" />
+<img width="745" height="396" alt="image" src="https://github.com/user-attachments/assets/f6760cab-35a3-43bc-9f6d-f266f20dc4de" />
+
 
 
 ## 🚀 Key Features
