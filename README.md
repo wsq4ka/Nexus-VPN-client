@@ -43,5 +43,5 @@
 ### Option 2: Run from Source
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/yourusername/nexus-x-vpn.git](https://github.com/yourusername/nexus-x-vpn.git)
+   git clone [https://github.com/wsq4ka/Nexus-VPN-client.git](https://github.com/wsq4ka/Nexus-VPN-client.git)
    cd nexus-x-vpn
